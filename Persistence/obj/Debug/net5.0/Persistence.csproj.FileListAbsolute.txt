@@ -13,3 +13,18 @@ D:\reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
 D:\reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
 D:\reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 D:\reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\Verthandai Archive\reactivities\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Verthandai Archive\reactivities\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Verthandai Archive\reactivities\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\Verthandai Archive\reactivities\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Verthandai Archive\reactivities\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Verthandai Archive\reactivities\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\Verthandai Archive\reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb

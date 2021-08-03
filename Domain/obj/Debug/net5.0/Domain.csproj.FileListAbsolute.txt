@@ -10,3 +10,15 @@ D:\reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
 D:\reactivities\Domain\obj\Debug\net5.0\Domain.dll
 D:\reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 D:\reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Verthandai Archive\reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Verthandai Archive\reactivities\Domain\bin\Debug\net5.0\Domain.dll
+D:\Verthandai Archive\reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Verthandai Archive\reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.dll
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Verthandai Archive\reactivities\Domain\obj\Debug\net5.0\Domain.pdb

@@ -977,11 +977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\reactivities\\Application\\Application.csproj",
+      "projectPath": "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-      "outputPath": "D:\\reactivities\\Application\\obj\\",
+      "outputPath": "D:\\Verthandai Archive\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -998,11 +998,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\reactivities\\Domain\\Domain.csproj"
+            "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj"
             },
-            "D:\\reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\reactivities\\Persistence\\Persistence.csproj"
+            "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

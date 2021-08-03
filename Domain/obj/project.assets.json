@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\reactivities\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-      "outputPath": "D:\\reactivities\\Domain\\obj\\",
+      "outputPath": "D:\\Verthandai Archive\\reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
