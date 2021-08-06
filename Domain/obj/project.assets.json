@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj",
+      "projectPath": "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-      "outputPath": "D:\\Verthandai Archive\\reactivities\\Domain\\obj\\",
+      "outputPath": "E:\\Project Archive\\C#\\reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

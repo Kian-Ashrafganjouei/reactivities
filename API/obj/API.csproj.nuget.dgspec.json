@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Verthandai Archive\\reactivities\\API\\API.csproj": {}
+    "E:\\Project Archive\\C#\\reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Verthandai Archive\\reactivities\\API\\API.csproj": {
+    "E:\\Project Archive\\C#\\reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\API\\API.csproj",
+        "projectUniqueName": "E:\\Project Archive\\C#\\reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Verthandai Archive\\reactivities\\API\\API.csproj",
+        "projectPath": "E:\\Project Archive\\C#\\reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-        "outputPath": "D:\\Verthandai Archive\\reactivities\\API\\obj\\",
+        "outputPath": "E:\\Project Archive\\C#\\reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj": {
-                "projectPath": "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj"
+              "E:\\Project Archive\\C#\\reactivities\\Application\\Application.csproj": {
+                "projectPath": "E:\\Project Archive\\C#\\reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -73,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj": {
+    "E:\\Project Archive\\C#\\reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\Project Archive\\C#\\reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Verthandai Archive\\reactivities\\Application\\Application.csproj",
+        "projectPath": "E:\\Project Archive\\C#\\reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-        "outputPath": "D:\\Verthandai Archive\\reactivities\\Application\\obj\\",
+        "outputPath": "E:\\Project Archive\\C#\\reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,11 +101,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj"
+              "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj"
+              "E:\\Project Archive\\C#\\reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\Project Archive\\C#\\reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -134,18 +134,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj": {
+    "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-        "outputPath": "D:\\Verthandai Archive\\reactivities\\Domain\\obj\\",
+        "outputPath": "E:\\Project Archive\\C#\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -188,18 +188,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj": {
+    "E:\\Project Archive\\C#\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\Project Archive\\C#\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Verthandai Archive\\reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "E:\\Project Archive\\C#\\reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Kiwi\\.nuget\\packages\\",
-        "outputPath": "D:\\Verthandai Archive\\reactivities\\Persistence\\obj\\",
+        "outputPath": "E:\\Project Archive\\C#\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -216,8 +216,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Verthandai Archive\\reactivities\\Domain\\Domain.csproj"
+              "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Project Archive\\C#\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -252,7 +252,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
